@@ -15,4 +15,4 @@ My name is Lennon Jambo Habeenzu, I am 37, from Lusaka.
 ```
 
 ##Stack
-Python
+1. Python
